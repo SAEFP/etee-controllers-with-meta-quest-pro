@@ -1,6 +1,6 @@
 # etee-controllers-with-meta-quest-pro
 
-_HOW TO USE etee CONTROLLER WITH META QUEST PRO HEADSET?_
+_HOW TO USE Etee CONTROLLER WITH META QUEST PRO HEADSET?_
 
 Virtual reality (VR) technology has evolved, with different manufacturers adopting distinct tracking systems for their headsets. For example, Oculus headsets utilize an inside-out tracking system that is compatible with Oculus controllers. This system relies on built-in cameras in the headset to track the user's movements.   
   
