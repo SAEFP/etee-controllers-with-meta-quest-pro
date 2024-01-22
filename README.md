@@ -18,26 +18,37 @@ Hardware:
 •	Meta Quest Pro Headset  
 •	2 etee Controllers  
 •	3 etee Trackers  
+•	1 etee Dongle  
 •	2 HTC Vive Headsets  
-•	HTC Vive Link Box  
+•	2 HTC Vive Link Box  
   
 Software  
 •	Oculus App  
-•	Steam Link (for Meta Quest Pro)  
 •	Steam and Steam VR  
 •	 [OpenVR Space Calibrator](https://github.com/pushrax/OpenVR-SpaceCalibrator) 
 
-💥 _STEP BY STEP PROCESS_  💥
-    
-1.	Make sure all required software is installed.  
-2.	Turn off your HTC Vive Link box to avoid conflicts with your Meta Quest Pro Headset.  
-3.	Launch the Steam VR application on your PC.   
+💥 _STEP BY STEP PROCESS_  💥  
+1.	Make sure all required software is installed.    
+2.	Connect each of the two Vive Headsets to your computer BUT **unplugged the HDMI and USB cables** from both Vive Headsets which will allow you to use the tracking capabilities of the Vive Headsets without their visual displays.   
+3.	Turn off your HTC Vive Link box to avoid conflicts with your Meta Quest Pro Headset.  
 4.	Turn on your Meta Quest Pro headset.  
-5.	Install Steam Link to your Meta Quest Pro Headset.  
-6.	Use Steam Link to establish a connection between your Meta Quest Pro Headset and Steam VR. 
-7.	Turn on your HTC Vive Link box.   
-8.	Connect each of the two Vive Headsets to your computer BUT unplugged the HDMI cable from both Vive Headsets which will allow you to use the tracking capabilities of the Vive Headsets without their visual displays.   
-9.	Connect your two etee controllers paired with your two etee trackers to the Steam VR.    
-10.	Attach the third etee tracker on the Meta Quest Pro headset. This tracker will be used for hand tracking.   
-11.	Launch the OpenVR Space Calibrator app on your PC and calibrate your Meta Quest Pro Headset and the tracker attached to it.   
+5.	Launch the Quest application on your PC.
+6.	In your headset settings, select Quest Link to establish a connection between your Meta Quest Pro Headset and your PC.
+7.	After establishing a connection between your headset and PC, launch Quest Link on your Meta Quest Pro headset.
+8.	Once you have successfully launched Quest Link on your Meta Quest Pro headset, you'll be in a white virtual environment. There will be a virtual screen displaying various options directly in front of you. Look for a menu located under this screen. Navigate through this menu and select the “Desktop” option to access your PC's desktop through the Quest Link interface.
+9.	Launch Steam VR from your PC`s desktop within Quest Link. 
+10.	Turn on your HTC Vive Link box and plugged the HDMI cable.   
+11.	At this stage, you should see that your Meta Quest Pro headset is now successfully connected within the Steam VR.
+12.	Insert your Etee dongle to your PC.
+13.	Pair your two Etee controllers with your two Etee trackers to Steam VR.    
+14.	Attach the third etee tracker on the Meta Quest Pro headset. This tracker will be used for hand tracking.   
+15.	Launch the OpenVR Space Calibrator app on your PC. You need to calibrate your Meta Quest Pro Headset and the tracker attached to it. 
+16.	Under 'Reference Space,' select 'Oculus,' then choose 'Meta Quest Pro' as your headset.
+17.	On the right-hand side, under 'Target Space,' select 'Lighthouse' and choose the name of the tracker attached to your headset.
+
+    
+19.	Set the calibration speed to **slow**.
+20.	Hold your Etee controllers in your hands during the calibration.
+21.	Perform the calibration by moving your head in a large figure-eight pattern. Continue until two progress bars are filled, indicating the calibration is complete.
+
 
