@@ -46,6 +46,7 @@ Software
 16.	Under 'Reference Space,' select 'Oculus,' then choose 'Meta Quest Pro' as your headset.
 17.	On the right-hand side, under 'Target Space,' select 'Lighthouse' and choose the name of the tracker attached to your headset.
 
+<img src="./images/space_calibrator.jpg" alt="space_calibrator.jpg" width="200"/>
     
 19.	Set the calibration speed to **slow**.
 20.	Hold your Etee controllers in your hands during the calibration.
