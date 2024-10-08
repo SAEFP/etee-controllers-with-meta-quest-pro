@@ -59,7 +59,7 @@ _Update_
 
 To use the etee VR controller with the Oculus Meta Quest Pro HMD, VIVE Ultimate Trackers are used with Etee Adapter kit. This setup allows to connect the HMD with the etee VR controllers without the need for base stations. See Figure 10 for the setup of the etee controllers.
 
-Etee Adapter Kit used to attach Vive Ultimate tracker to the controller. [Etee Adapter Kit](https://eteexr.com/products/eteeadapter?srsltid=AfmBOoqisgJvjPTgSSRQPBgQWi9woZkj4V32-GLdwdxQ0e6CMyqWBsCx) 
+[Etee Adapter Kit](https://eteexr.com/products/eteeadapter?srsltid=AfmBOoqisgJvjPTgSSRQPBgQWi9woZkj4V32-GLdwdxQ0e6CMyqWBsCx)  used to attach Vive Ultimate tracker to the controller.
 
 <img src="./images/controller-figure-2.png" alt="controller-figure-2.png" width="600"/>    
 
