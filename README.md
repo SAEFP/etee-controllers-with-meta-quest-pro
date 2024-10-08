@@ -9,9 +9,7 @@ Due to these fundamental differences, combining hardware from different systems 
   
 One such solution is [OpenVR Space Calibrator](https://github.com/pushrax/OpenVR-SpaceCalibrator), which acts as a bridge, enabling the integration of different VR hardware systems. This software allows users to calibrate and align tracking data from disparate systems, making it possible to use, for example, the etee controller (by Tg0) with an Oculus headset.  
   
-The following tutorial requires 2 HTC Vive headsets. This requirement is because the Vive headsets have built-in RF (radio frequency) receivers that can connect to and track the movements of the controllers. In this tutorial, these 2 HTC Vive headsets are used as a substitute for purchasing dongles for tracking purposes. Using dongles eliminates the need for additional headsets. One HTC Vive headset can track two devices, so if you are not going to use Vive headsets, you need to purchase dongles additionally.
-
-<img src="./images/controller-figure-2.png" alt="controller-figure-2.png" width="600"/>      
+The following tutorial requires 2 HTC Vive headsets. This requirement is because the Vive headsets have built-in RF (radio frequency) receivers that can connect to and track the movements of the controllers. In this tutorial, these 2 HTC Vive headsets are used as a substitute for purchasing dongles for tracking purposes. Using dongles eliminates the need for additional headsets. One HTC Vive headset can track two devices, so if you are not going to use Vive headsets, you need to purchase dongles additionally.  
 
 **Prerequests**:   
   
@@ -57,4 +55,11 @@ _Space Calibrator Interface_
 29.	Hold your Etee controllers in your hands during the calibration.                    
 20.	Perform the calibration by moving your head in a large figure-eight pattern. Continue until two progress bars are filled, indicating the calibration is complete.                   
 
+_Update_
+
+To use the etee VR controller with the Oculus Meta Quest Pro HMD, VIVE Ultimate Trackers are used with Etee Adapter kit. This setup allows to connect the HMD with the etee VR controllers without the need for base stations. See Figure 10 for the setup of the etee controllers.
+
+Etee Adapter Kit used to attach Vive Ultimate tracker to the controller. [Etee Adapter Kit](https://eteexr.com/products/eteeadapter?srsltid=AfmBOoqisgJvjPTgSSRQPBgQWi9woZkj4V32-GLdwdxQ0e6CMyqWBsCx) 
+
+<img src="./images/controller-figure-2.png" alt="controller-figure-2.png" width="600"/>    
 
