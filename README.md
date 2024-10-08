@@ -11,6 +11,7 @@ One such solution is [OpenVR Space Calibrator](https://github.com/pushrax/OpenVR
   
 The following tutorial requires 2 HTC Vive headsets. This requirement is because the Vive headsets have built-in RF (radio frequency) receivers that can connect to and track the movements of the controllers. In this tutorial, these 2 HTC Vive headsets are used as a substitute for purchasing dongles for tracking purposes. Using dongles eliminates the need for additional headsets. One HTC Vive headset can track two devices, so if you are not going to use Vive headsets, you need to purchase dongles additionally.
 
+<img src="./images/controller-figure-2.png" alt="controller-figure-2.png" width="600"/>      
 
 **Prerequests**:   
   
