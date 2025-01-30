@@ -13,7 +13,7 @@ The following tutorial requires 2 HTC Vive headsets. This requirement is because
 
 **Prerequests**:   
   
-Hardware:  
+**Hardware:**  
 •	Meta Quest Pro Headset  
 •	2 etee Controllers  
 •	3 etee Trackers  
@@ -21,7 +21,7 @@ Hardware:
 •	2 HTC Vive Headsets  
 •	2 HTC Vive Link Box  
   
-Software  
+**Software:**  
 •	Oculus App  
 •	Steam and Steam VR  
 •	 [OpenVR Space Calibrator](https://github.com/pushrax/OpenVR-SpaceCalibrator) 
@@ -55,7 +55,7 @@ _Space Calibrator Interface_
 29.	Hold your Etee controllers in your hands during the calibration.                    
 20.	Perform the calibration by moving your head in a large figure-eight pattern. Continue until two progress bars are filled, indicating the calibration is complete.                   
 
-_Update_
+**_UPDATE_** 
 
 To use the etee VR controller with the Oculus Meta Quest Pro HMD, VIVE Ultimate Trackers are used with Etee Adapter kit. This setup allows to connect the HMD with the etee VR controllers without the need for base stations. See Figure 10 for the setup of the etee controllers.
 
@@ -63,21 +63,21 @@ To use the etee VR controller with the Oculus Meta Quest Pro HMD, VIVE Ultimate 
 
 <img src="./images/controller-figure-2.png" alt="controller-figure-2.png" width="600"/>    
 
-Updated Tutorial: 
+_UPDATED TUTORIAL:_ 
 
-Hardware:  
+**Hardware:** 
 •	Meta Quest Pro Headset and controllers
 •	2 Etee controllers  
 •	1 Etee dongle  
 •	Etee Adapter kit
 •	2 HTC Vive Ultimate Trackers with their dongle
   
-Software  
+**Software:**
 •	Meta Quest Link
 •	Vive Hub
 •	Steam and Steam VR  
 
-1. Ensure Vive Ultimate Trackers are Tracking
+1. _Ensure Vive Ultimate Trackers are Tracking_
 
 Open Vive Hub and turn on the Vive Ultimate Trackers. You need to stand around 1.5 meters away from the computer and position the trackers at your chest height for proper tracking. 
 
@@ -87,15 +87,15 @@ Open Vive Hub and turn on the Vive Ultimate Trackers. You need to stand around 1
 
 Then, launch Air Link from the HMD to establish a connection with your PC. 
 
-4. Press the menu button (three horizontal lines) on the left Quest controller. Select the Space Callibrator icon.
+4. Press the menu button (three horizontal lines) on the left Quest controller. Select the Space Calibrator icon.
 
-4. Callibrate your Quest controllers with Vive Ultimate trackers. 
+4. _Calibrate your Quest controllers with Vive Ultimate trackers._ 
 
-Follow the callibration process to calibrate your Quest controllers with the Vive Ultimate Trackers.
+Follow the calibration process to calibrate your Quest controllers with the Vive Ultimate Trackers.
 
 The system may only allow fpr one Quest Controllers which is alright. 
 
-5. After the callibration, you should see the Vive ultimate trackers in VR. 
+5. After the calibration, you should see the Vive ultimate trackers in VR. 
 
 6. Exit Steam VR. Place the Quest controllers outside the VR boundary. Turn on your Etee controllers (They should remain off until this step). Do not forget to connect your Etee Dongle to your PC. Restart Steam VR. 
 
