@@ -63,3 +63,31 @@ To use the etee VR controller with the Oculus Meta Quest Pro HMD, VIVE Ultimate 
 
 <img src="./images/controller-figure-2.png" alt="controller-figure-2.png" width="600"/>    
 
+Updated Tutorial: 
+
+1. Ensure Vive Ultimate Trackers are Tracking
+
+Open Vive Hub and turn on the Vive Ultimate Trackers. You need to stand around 1.5 meters away from the computer and position the trackers at your chest height for proper tracking. 
+
+2. Open Steam VR on your PC. 
+
+3. Put on your Meta Quest Pro headset. Make sure the HMD is connected to Meta Quest Link on your PC. 
+
+Then, launch Air Link from the HMD to establish a connection with your PC. 
+
+4. Press the menu button (three horizontal lines) on the left Quest controller. Select the Space Callibrator icon.
+
+4. Callibrate your Quest controllers with Vive Ultimate trackers. 
+
+Follow the callibration process to calibrate your Quest controllers with the Vive Ultimate Trackers.
+
+The system may only allow fpr one Quest Controllers which is alright. 
+
+5. After the callibration, you should see the Vive ultimate trackers in VR. 
+
+6. Exit Steam VR. Place the Quest controllers outside the VR boundary. Turn on your Etee controllers (They should remain off until this step). Do not forget to connect your Etee Dongle to your PC. Restart Steam VR. 
+
+7. In the Steam VR, you should now see only HMD, 2 Etee controllers and 2 Vive Ultimate Trackers. 
+
+Setup is complete! 
+ 
