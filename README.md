@@ -65,6 +65,18 @@ To use the etee VR controller with the Oculus Meta Quest Pro HMD, VIVE Ultimate 
 
 Updated Tutorial: 
 
+Hardware:  
+•	Meta Quest Pro Headset and controllers
+•	2 Etee controllers  
+•	1 Etee dongle  
+•	Etee Adapter kit
+•	2 HTC Vive Ultimate Trackers with their dongle
+  
+Software  
+•	Meta Quest Link
+•	Vive Hub
+•	Steam and Steam VR  
+
 1. Ensure Vive Ultimate Trackers are Tracking
 
 Open Vive Hub and turn on the Vive Ultimate Trackers. You need to stand around 1.5 meters away from the computer and position the trackers at your chest height for proper tracking. 
@@ -90,4 +102,3 @@ The system may only allow fpr one Quest Controllers which is alright.
 7. In the Steam VR, you should now see only HMD, 2 Etee controllers and 2 Vive Ultimate Trackers. 
 
 Setup is complete! 
- 
