@@ -97,6 +97,8 @@ Follow the calibration process to calibrate your Quest controllers with the Vive
 
 The system may only allow fOr one Quest Controllers which is alright. 
 
+<img src="./images/calibration.gif" alt="calibration.gif" width="600"/>     
+
 5. After the calibration, you should see the Vive ultimate trackers in VR. 
 
 <img src="./images/2.png" alt="2.png" width="500"/>   
@@ -108,3 +110,5 @@ The system may only allow fOr one Quest Controllers which is alright.
 <img src="./images/3.png" alt="3.png" width="500"/> 
 
 Setup is complete! 
+
+<img src="./images/etee-vr-template.gif" alt="etee-vr-template.gif" width="500"/> 
