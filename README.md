@@ -120,6 +120,8 @@ _ETEE CONTROLLERS UI BINDINGS FOR UNREAL ENGINE PROJECT_
 <img src="./images/config-file.JPG" alt="2.png" width="500"/>   
 
 2. Make sure the OpenXR Runtime is set to Steam VR. Also, verify this inside SteamVR in the OpenXR tab of the Settings. 
+<img src="./images/open-xr-1.png" alt="2.png" width="500"/>   
+<img src="./images/open-xr-2.png" alt="2.png" width="500"/>   
 
 3. After connecting the Etee controllers to Steam VR. Launch the UE project and start VR Preview. 
 
