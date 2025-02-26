@@ -115,7 +115,9 @@ Setup is complete!
 
 _ETEE CONTROLLERS UI BINDINGS FOR UNREAL ENGINE PROJECT_
 
-1. Go to thhe Config folder inside the UE project. Then, go to the DefaultInput.ini file. Add the following script to the end of this file. 
+1. Go to the Config folder inside the UE project. Then, go to the DefaultInput.ini file. Add the following script to the end of this file. 
+
+<img src="./images/config-file.JPG" alt="2.png" width="500"/>   
 
 2. Make sure the OpenXR Runtime is set to Steam VR. Also, verify this inside SteamVR in the OpenXR tab of the Settings. 
 
@@ -123,6 +125,14 @@ _ETEE CONTROLLERS UI BINDINGS FOR UNREAL ENGINE PROJECT_
 
 4. Go to Steam VR > Controller settings > "Show Binding UI"   
 
+<img src="./images/bindings-1.png" alt="2.png" width="500"/>   
+
 5. In the Controller Bindings page of Steam VR, select your UE project. 
 
+<img src="./images/bindings-2.png" alt="2.png" width="500"/>   
+
 6. Edit the bindings as needed to match the input setup. In the bindings settings, go to imc_hands, where the current project bindings are stored. 
+
+<img src="./images/bindings-3.png" alt="2.png" width="500"/>   
+
+<img src="./images/bindings-4.png" alt="2.png" width="500"/>   
