@@ -112,3 +112,17 @@ The system may only allow fOr one Quest Controllers which is alright.
 Setup is complete! 
 
 <img src="./images/etee-vr-template.gif" alt="etee-vr-template.gif" width="500"/> 
+
+_ETEE CONTROLLERS UI BINDINGS FOR UNREAL ENGINE PROJECT_
+
+1. Go to thhe Config folder inside the UE project. Then, go to the DefaultInput.ini file. Add the following script to the end of this file. 
+
+2. Make sure the OpenXR Runtime is set to Steam VR. Also, verify this inside SteamVR in the OpenXR tab of the Settings. 
+
+3. After connecting the Etee controllers to Steam VR. Launch the UE project and start VR Preview. 
+
+4. Go to Steam VR > Controller settings > "Show Binding UI"   
+
+5. In the Controller Bindings page of Steam VR, select your UE project. 
+
+6. Edit the bindings as needed to match the input setup. In the bindings settings, go to imc_hands, where the current project bindings are stored. 
